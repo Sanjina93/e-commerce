@@ -40,7 +40,7 @@ export const pros = [
 
 export const Product3 = () => {
   return (
-    <div className='bg-[#FAFAFA] sm:w-[1257px] md:w-[1355px] lg:w-[1455px] xl:w-full h-[886px] py-[48px] gap-[30px]'>
+    <div className='bg-[#FAFAFA] sm:w-[1257px] md:w-[1355px] lg:w-[1455px] xl:w-full h-[886px] pt-[30px]   gap-[30px]'>
       <div className='w-[1124px] h-[620px] justify-self-center '>
         <h3 className='w-[399px] h-[32px] font-bold font-2xl tracking-[0.1px] text-center text-[#252B42]'>BESTSELLER PRODUCTS</h3>
         <div className='w-[1042px] h-[2px] bg-[#ECECEC] ml-10'></div>

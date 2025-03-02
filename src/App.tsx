@@ -98,6 +98,7 @@ const App = () => {
             <Popular />
             <Product2 />
             <Popular2/>
+            <Product3/>
             <ProductDes />
             <Feature />
           </>
