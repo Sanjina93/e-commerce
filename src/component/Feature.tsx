@@ -48,7 +48,7 @@ const features = [
 export const Feature = () => {
     return (
         <div className='bg-[#FFFFFF] sm:w-[1257px] md:w-[1355px] lg:w-[1455px] xl:w-full  h-[994px]'>
-            <div className='w-[1050px] h-[994px] left-[195px] py-[112px] gap-[80px] justify-self-center'>
+            <div className='w-[1050px] h-[994px] left-[195px] py-[24px]  justify-self-center'>
                 <div className='w-[691px] h-[84px] gap-[10px] justify-self-center'>
                     <h6 className='w-[614px] h-[24px] font-bold text-sm tracking-[0.2px] text-center'>Practice Advice</h6>
                     <h3 className='w-[619px] h-[50px] font-bold text-5xl text-center tracking-[0.2px] '>Featured Posts</h3>
