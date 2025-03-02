@@ -104,7 +104,7 @@ const App = () => {
           </>
           }
           />
-          document.documentELement.scrollTop = 0;
+        
           <Route path="/log" element={<Log />} />
           <Route path="/signup" element={<Signup />} />
           <Route path="/fdescription/:id" element={<FDescription />} />
